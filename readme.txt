@@ -5,4 +5,5 @@ Git tracks changes.
 Git tracks changes of files.
 1
 2
-Creating a new branch is quick & example.
+Creating a new branch is quick and simple..
+
