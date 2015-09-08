@@ -7,3 +7,5 @@ Git tracks changes of files.
 2
 Creating a new branch is quick and simple..
 
+add merge
+
